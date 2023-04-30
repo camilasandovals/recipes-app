@@ -1,7 +1,28 @@
+
 .App {
   text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+    font-size: clamp(70px, 10vw, 100px); 
+    font-weight: 900;
+}
+
+header { 
+  padding: 50px;
 }
 
 div {
   margin-bottom: 15px;
+}
+
+li {
+  list-style: none
+}
+
+footer {
+  background-color: rgba(255, 255, 255, 0.357);
 }
