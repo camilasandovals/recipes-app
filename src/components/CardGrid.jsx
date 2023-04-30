@@ -11,11 +11,11 @@ export default function CardGrid({ food }) {
         <p>Preparation time: {food.time} min</p>
         <button onClick={() => setShowIngredients(!showIngredients)}>Ingredients</button>
         {showIngredients && (
-          <ul>
-            {food.ingredients.map((ingredient, index) => (
-              <li key={index}>{ingredient}</li>
+          <div>
+            {food.ingredients.map((ingredient) => (
+              <li>{ingredient}</li>
             ))}
-          </ul>
+          </div>
         )}
       </div>
     </>

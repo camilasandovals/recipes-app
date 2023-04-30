@@ -1,3 +1,6 @@
-# App that shows different recipes
+# Recipes App!
 
 Built in React, using Bootstrap.
+
+![screen](./public/images/screen.png)
+
