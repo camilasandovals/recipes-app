@@ -9,6 +9,7 @@
 h1 {
     font-size: clamp(70px, 10vw, 100px); 
     font-weight: 900;
+    background-color: rgba(255, 255, 255, 0.258);
 }
 
 p {
@@ -21,10 +22,13 @@ header {
 
 div {
   margin-bottom: 15px;
+  
 }
 
+
 li {
-  list-style: none
+  color: wheat;
+  
 }
 
 footer {
