@@ -1,0 +1,51 @@
+[
+    {
+        "id":"1",
+        "name":"Broccoli Sauteed",
+        "ingredients": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "time": "15",
+        "image":"https://cdn0.recetasgratis.net/es/posts/9/3/1/brocoli_salteado_con_jamon_64139_orig.jpg"
+    }
+    ,
+    {
+        "id":"2",
+        "name": "Salmon With Sweet Potatoes",
+        "ingredients": ["Sweet potatos","olive oil","salt", "pepper", "Salmon", "rosemary", "lemon", "honey","garlic"],
+        "time": "25",
+        "image":"https://www.twopeasandtheirpod.com/wp-content/uploads/2020/10/Honey-Rosemary-Salmon-3-1024x1536.jpg"
+    }
+    ,
+    {
+        "id":"3",
+        "name": "Chicken With Eggplant",
+        "ingredients": ["Diced chicken","Diced eggplant","Diced tomato", "Sliced pepper", "Diced Carrots", "Olive oil", "salt", "pepper","garlic"],
+        "time": "35",
+        "image":"https://i1.wp.com/4.bp.blogspot.com/-v4rtcgEuZjA/Vy4AGZcVXeI/AAAAAAAAJ_o/eM7sGGyLfnc3Bx2U0gP7OB-WQEj3EwdzwCKgB/s1600/Chicken%2Band%2BEggplant.JPG?ssl=1"
+    }
+    ,
+    {
+        "id":"4",
+        "name": "Cosmopolitan Cocktail",
+        "ingredients": ["Vodka","Lime Juice","Triple Sec","Cranberry Juice"],
+        "time": "5",
+        "image":"https://www.allrecipes.com/thmb/lEKOCE4lrDuYheZ-5jotgz9S5KM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/221891_CosmopolitanCocktail_MFS-WD1-d6cc8198c6c44404870bb4f71c942f20.jpg"
+    }
+    ,
+    {
+        "id":"5",
+        "name": "Chicken Curry",
+        "ingredients": ["Chopped chicken","onions","ginger","garlic","Chilli powder","tumeric","grated coconut","cloves","Cinnamon","Curry leaves","coconut oil"],
+        "time": "50",
+        "image":"https://media.gettyimages.com/photos/butter-chicken-indian-chicken-curry-dish-picture-id879661732"
+    }
+    ,
+    {
+        "id": "6",
+        "name": "Pasta Feta",
+        "ingredients":["cherry tomatoes","shrimp","salt","pepper","feta cheese","oil","garlic","pasta (any kind)"],
+        "time": 40,
+        "image": "https://healthyfitnessmeals.com/wp-content/uploads/2021/02/baked-feta-pasta-6.jpg"
+
+    }
+    
+]
